@@ -1,3 +1,5 @@
+# mila
+
 A very simple machine learning algorithm using Python and TensorFlow for a basic classification task.
 
 ## Install Dependencies
@@ -5,13 +7,13 @@ A very simple machine learning algorithm using Python and TensorFlow for a basic
 pip install -r requirements.txt
 ```
 
-## Optionally, create and activate a virtual environment
+### Optionally, create and activate a virtual environment
 ```
 python -m venv myenv
 source myenv/bin/activate
 ```
 
-## Install dependencies in the virtual environment
+### Install dependencies in the virtual environment
 ```
 pip install -r requirements.txt
 ```
